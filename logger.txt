@@ -1,0 +1,776 @@
+2023-03-17 13:11:46,448 - INFO - bitboard - Board was set.
+2023-03-17 13:11:46,448 - INFO - bitothello - Game starts.
+2023-03-17 13:11:46,466 - INFO - gui - GUI for the board was set.
+2023-03-17 13:11:48,418 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:11:48,423 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:11:49,566 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:11:49,626 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:11:50,736 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:11:50,831 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:11:52,511 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:11:52,581 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:11:54,010 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:11:54,111 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:11:54,988 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:11:55,095 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:11:56,058 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:11:56,080 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:11:57,453 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:11:57,504 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:11:58,463 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:11:58,486 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:11:59,874 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:11:59,910 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:00,849 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:00,894 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:02,020 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:02,099 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:04,147 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:04,174 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:05,483 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:05,485 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:06,587 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:06,689 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:07,354 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:07,457 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:08,728 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:08,769 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:09,940 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:10,623 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:12,273 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:12,274 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:13,024 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:13,035 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:14,259 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:14,710 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:15,902 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:15,985 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:17,331 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:17,410 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:18,565 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:18,614 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:19,446 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:19,489 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:20,196 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:20,252 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:21,098 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:21,131 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:22,674 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:22,771 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:24,105 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:24,191 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:24,788 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:24,848 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:26,288 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:26,378 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:26,486 - DEBUG - bitothello - Player's turn was passed.
+2023-03-17 13:12:26,596 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:12:28,074 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:12:28,127 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:28,236 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:28,344 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:28,459 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:28,568 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:28,677 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:28,785 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:28,893 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:29,004 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:29,114 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:29,222 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:29,331 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:29,438 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:29,550 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:29,662 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:29,768 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:29,877 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:29,986 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:30,098 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:30,209 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:30,318 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:30,424 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:30,535 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:30,644 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:30,752 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:30,861 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:30,972 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:31,081 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:31,192 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:31,301 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:31,410 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:31,517 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:31,630 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:31,736 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:31,846 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:31,955 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:32,064 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:32,174 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:32,283 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:32,396 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:32,506 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:32,610 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:32,721 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:32,831 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:32,941 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:33,051 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:33,162 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:33,268 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:33,376 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:33,484 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:33,595 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:33,705 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:33,815 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:33,922 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:34,036 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:34,146 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:34,252 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:34,363 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:34,472 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:34,579 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:34,692 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:34,801 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:34,909 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:35,018 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:35,126 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:35,236 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:35,346 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:35,455 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:35,564 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:35,673 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:35,786 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:35,893 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:36,001 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:36,110 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:36,220 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:36,329 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:36,439 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:36,552 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:36,661 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:36,768 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:36,877 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:36,989 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:37,096 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:37,206 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:37,316 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:37,427 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:37,536 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:37,644 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:37,754 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:37,862 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:37,974 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:38,082 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:38,193 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:38,301 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:38,412 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:38,520 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:38,627 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:38,736 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:38,846 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:38,954 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:39,065 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:39,174 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:39,282 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:39,393 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:39,502 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:39,612 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:39,723 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:39,829 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:39,940 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:40,049 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:40,160 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:40,269 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:40,376 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:40,488 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:40,597 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:40,708 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:40,816 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:40,925 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:41,033 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:41,143 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:41,254 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:41,363 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:41,473 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:41,584 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:41,693 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:41,801 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:41,910 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:42,020 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:42,130 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:42,239 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:42,346 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:42,455 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:42,566 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:42,677 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:42,783 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:42,895 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:43,002 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:43,111 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:43,223 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:43,331 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:43,442 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:43,550 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:43,659 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:43,768 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:43,877 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:43,986 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:12:44,094 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:14:44,857 - INFO - bitboard - Board was set.
+2023-03-17 13:14:44,857 - INFO - bitothello - Game starts.
+2023-03-17 13:14:44,875 - INFO - gui - GUI for the board was set.
+2023-03-17 13:14:45,889 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:46,198 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:46,283 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:46,479 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:47,073 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:47,482 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:47,820 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:47,926 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:48,292 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:48,363 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:48,983 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:49,019 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:49,348 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:49,458 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:49,833 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:49,894 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:50,303 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:50,333 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:50,836 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:51,495 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:51,534 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:52,725 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:52,739 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:53,123 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:53,436 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:53,506 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:53,925 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:53,942 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:54,333 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:54,377 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:54,766 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:54,816 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:55,246 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:55,679 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:55,691 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:56,217 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:57,241 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:57,329 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:58,038 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:58,097 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:14:59,507 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:14:59,518 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:00,189 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:00,283 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:00,721 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:01,159 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:01,769 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:01,814 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:02,652 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:02,692 - DEBUG - bitothello - CPU's turn was passed.
+2023-03-17 13:15:03,250 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:04,332 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:04,333 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:04,942 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:04,986 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:06,366 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:06,409 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:07,830 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:08,269 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:10,041 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:10,125 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:10,934 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:11,004 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:13,598 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:13,626 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:14,759 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:14,833 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:15,440 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:15,486 - DEBUG - bitothello - CPU's turn was passed.
+2023-03-17 13:15:16,262 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:16,362 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:17,681 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:17,783 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:18,512 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:18,552 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:18,657 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:18,769 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:18,878 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:18,988 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:19,095 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:19,205 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:19,316 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:19,426 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:19,536 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:19,645 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:19,753 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:19,863 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:19,970 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:20,078 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:20,192 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:20,300 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:20,409 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:20,520 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:20,631 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:20,738 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:20,849 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:20,957 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:21,065 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:21,175 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:21,282 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:21,391 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:21,503 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:21,610 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:21,723 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:21,832 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:21,940 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:22,048 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:22,158 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:22,268 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:22,377 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:22,486 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:15:31,694 - INFO - bitboard - Board was set.
+2023-03-17 13:15:31,694 - INFO - bitothello - Game starts.
+2023-03-17 13:15:31,711 - INFO - gui - GUI for the board was set.
+2023-03-17 13:15:32,738 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:32,799 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:15:34,551 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:15:34,551 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:23,443 - INFO - bitboard - Board was set.
+2023-03-17 13:23:23,443 - INFO - bitothello - Game starts.
+2023-03-17 13:23:23,461 - INFO - gui - GUI for the board was set.
+2023-03-17 13:23:25,621 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:26,019 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:26,437 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:26,517 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:27,968 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:28,051 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:28,869 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:28,927 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:30,082 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:30,127 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:30,857 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:30,897 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:32,112 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:32,205 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:32,999 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:33,080 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:33,958 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:33,958 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:34,655 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:35,432 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:35,487 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:36,524 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:36,582 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:37,386 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:37,456 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:38,286 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:38,331 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:39,232 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:39,827 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:39,865 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:40,566 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:40,627 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:41,167 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:41,995 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:42,575 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:43,077 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:43,145 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:43,824 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:43,908 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:44,458 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:44,565 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:44,984 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:45,003 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:45,602 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:45,662 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:46,668 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:46,753 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:47,291 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:47,297 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:47,875 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:49,088 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:49,158 - DEBUG - bitothello - CPU's turn was passed.
+2023-03-17 13:23:50,083 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:50,142 - DEBUG - bitothello - CPU's turn was passed.
+2023-03-17 13:23:50,815 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:50,907 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:51,711 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:51,783 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:52,903 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:52,989 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:53,576 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:53,642 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:54,225 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:54,299 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:54,963 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:55,064 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:55,827 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:55,834 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:23:58,349 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:23:58,350 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:58,456 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:58,564 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:58,674 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:58,783 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:58,893 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:59,002 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:59,112 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:59,221 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:59,333 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:59,442 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:59,551 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:59,661 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:59,770 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:59,880 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:23:59,987 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:00,097 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:00,205 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:00,314 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:00,426 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:00,533 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:00,644 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:00,752 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:00,861 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:00,971 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:01,081 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:01,192 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:01,299 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:01,407 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:01,519 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:01,626 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:01,736 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:01,846 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:01,954 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:02,068 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:02,173 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:02,283 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:02,393 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:02,502 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:02,612 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:02,719 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:02,831 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:02,939 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:03,051 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:03,156 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:03,267 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:03,376 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:03,485 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:03,595 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:03,704 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:03,814 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:03,923 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:04,034 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:04,145 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:04,256 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:04,363 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:04,471 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:04,583 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:04,691 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:04,797 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:04,910 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:05,018 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:05,126 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:05,236 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:05,346 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:05,457 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:05,567 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:05,674 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:05,785 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:05,894 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:06,002 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:06,113 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:06,221 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:06,333 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:06,439 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:06,551 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:06,658 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:06,768 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:06,877 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:06,986 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:07,095 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:07,205 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:07,314 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:07,427 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:07,535 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:07,644 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:07,753 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:07,862 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:07,970 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:08,080 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:08,190 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:08,299 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:08,410 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:08,521 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:08,627 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:08,736 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:08,848 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:08,954 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:09,068 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:09,173 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:09,282 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:09,391 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:09,501 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:09,612 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:09,722 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:09,831 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:09,939 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:10,050 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:10,159 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:10,269 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:10,377 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:10,488 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:10,596 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:10,706 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:10,814 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:10,922 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:11,035 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:11,146 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:11,299 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:11,363 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:11,472 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:11,580 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:11,690 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:11,799 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:11,909 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:12,016 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:12,127 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:12,236 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:12,346 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:12,455 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:12,564 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:12,673 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:12,783 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:12,892 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:13,001 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:13,112 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:13,221 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:13,329 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:13,438 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:13,548 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:13,659 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:13,769 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:13,877 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:13,988 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:14,095 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:14,205 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:14,314 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:14,424 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:14,531 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:14,643 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:14,752 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:14,864 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:14,970 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:15,083 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:15,192 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:15,299 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:15,407 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:15,517 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:15,626 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:15,735 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:15,844 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:15,956 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:16,065 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:16,174 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:16,282 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:16,395 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:16,505 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:16,615 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:16,722 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:16,830 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:16,940 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:17,051 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:17,159 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:17,271 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:17,379 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:17,485 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:17,594 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:17,707 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:17,817 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:17,925 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:18,034 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:18,145 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:18,252 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:18,363 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:24:18,470 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:23,219 - INFO - bitboard - Board was set.
+2023-03-17 13:27:23,219 - INFO - bitothello - Game starts.
+2023-03-17 13:27:23,238 - INFO - gui - GUI for the board was set.
+2023-03-17 13:27:26,286 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:26,299 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:27,343 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:27,393 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:28,167 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:28,267 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:29,136 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:29,513 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:29,582 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:30,265 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:30,350 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:31,402 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:31,439 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:32,431 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:32,535 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:33,329 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:33,410 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:34,816 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:34,830 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:35,475 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:35,486 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:36,275 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:36,362 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:37,316 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:37,346 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:38,065 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:38,112 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:38,565 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:38,661 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:39,287 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:39,313 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:41,411 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:41,503 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:42,776 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:42,815 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:43,518 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:43,583 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:44,216 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:44,625 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:44,675 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:45,052 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:45,114 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:46,325 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:46,424 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:46,953 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:46,973 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:47,811 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:47,847 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:48,418 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:49,270 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:50,386 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:50,471 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:50,974 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:51,808 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:53,114 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:53,203 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:53,928 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:53,972 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:54,413 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:54,518 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:55,125 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:55,174 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:55,687 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:55,722 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:56,843 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:27:56,923 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:27:57,032 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:57,146 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:57,254 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:57,361 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:57,471 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:57,581 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:57,691 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:57,801 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:57,909 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:58,021 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:58,126 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:58,238 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:58,346 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:58,457 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:58,565 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:58,673 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:58,786 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:58,895 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:59,003 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:59,112 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:59,222 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:59,329 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:59,439 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:59,548 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:59,659 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:59,767 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:59,878 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:27:59,988 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:00,096 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:00,206 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:00,316 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:00,424 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:00,537 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:00,644 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:00,753 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:00,862 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:00,972 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:01,085 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:01,191 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:01,299 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:01,408 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:01,519 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:01,627 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:01,740 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:01,845 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:01,955 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:02,067 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:02,175 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:02,285 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:02,391 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:02,503 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:02,611 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:02,720 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:02,832 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:02,940 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:03,049 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:03,158 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:03,268 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:03,377 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:03,488 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:03,598 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:03,706 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:03,814 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:03,924 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:04,033 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:04,144 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:04,255 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:04,361 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:04,471 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:04,582 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:04,691 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:04,801 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:04,909 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:05,018 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:05,127 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:05,236 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:05,345 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:05,459 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:05,564 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:05,676 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:05,783 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:05,891 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:06,004 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:06,113 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:06,222 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:06,332 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:06,440 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:06,549 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:06,658 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:06,767 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:06,877 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:06,986 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:07,097 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:07,209 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:07,317 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:07,426 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:07,533 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:07,642 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:07,753 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:07,865 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:28:07,974 - DEBUG - bitothello - Game was judged as the end.
+2023-03-17 13:29:03,325 - INFO - bitboard - Board was set.
+2023-03-17 13:29:03,325 - INFO - bitothello - Game starts.
+2023-03-17 13:29:03,345 - INFO - gui - GUI for the board was set.
+2023-03-17 13:29:05,175 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:29:05,207 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:29:06,250 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:29:06,299 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:29:07,039 - INFO - gui - Mouse bottun was put.
+2023-03-17 13:29:07,067 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:29:08,303 - INFO - bitboard - Board was set.
+2023-03-17 13:29:08,304 - INFO - bitothello - Game starts.
+2023-03-17 13:29:08,377 - DEBUG - bitothello - CPU's turn was processed automatically.
+2023-03-17 13:29:13,929 - INFO - gui - Mouse bottun was put.

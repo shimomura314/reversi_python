@@ -1,0 +1,6 @@
+*.pkl
+*.prof
+__pycache__
+/build
+/dist
+game.spec
